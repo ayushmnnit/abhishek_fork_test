@@ -1,3 +1,0 @@
-# 19thAugMultiForkExternal1024__internal
-
-19thAugMultiForkExternal1024__internal repository
